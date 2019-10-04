@@ -1,0 +1,39 @@
+You have to do recon and find these things for any domain.
+
+	Tasks:
+		Whois Information
+		Subdomains
+		Dir info
+		S3 Buckets
+		social accounts
+		API Endpoints
+		emails
+		Vhosts
+		Backend IP address
+		Open Ports / Services running
+		Service version info (if applicable)
+		server banners
+		directory listings
+		presence security headers
+		WAF (+ WAF type)
+
+
+Articles you can refer for finding above things:
+- https://medium.com/bugbountywriteup/guide-to-basic-recon-bug-bounties-recon-728c5242a115
+- https://medium.com/@edu4rdshl/subdomains-enumeration-what-is-how-to-do-it-monitoring-automation-using-webhooks-and-5e0a0c6d9127
+- https://medium.com/bugbountywriteup/whats-tools-i-use-for-my-recon-during-bugbounty-ec25f7f12e6d
+- https://blog.usejournal.com/bug-hunting-methodology-part-1-91295b2d2066
+- https://medium.com/@ehsahil/getting-started-in-bug-bounty-7052da28445a
+- https://blog.usejournal.com/web-application-security-bug-bounty-methodology-reconnaissance-vulnerabilities-reporting-635073cddcf2
+- https://bugbountytuts.files.wordpress.com/2019/01/dirty-recon-1.pdf
+- https://www.youtube.com/watch?v=eHOMGUTi9yo&feature=youtu.be
+- https://www.youtube.com/watch?v=rODWJjUc1Xo&t=2s
+- https://edoverflow.com/2017/lightweight-reconnaissance-setup/
+- https://enciphers.com/doing-recon-the-correct-way/
+
+Guide for beginners:
+- https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters
+- https://eforensicsmag.com/bug-bounty-methodology-ttp-tacticstechniques-and-procedures-v-2-0/
+
+
+
